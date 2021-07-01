@@ -8,7 +8,8 @@
 
 🔗 https://falost.cc                                
 
-<img align="left" src="/qrcode_for_falost.jpg" width = "200" height = "200" alt="falost_qrcode"  />
+<img align="left" src="/qrcode_for_falost.jpg" width = "200" height = "200" alt="falost_qrcode" title="公众号"  />
+<img align="left" src="/qrcode_for_falost_cc.jpg" width = "200" height = "200" alt="falost_qrcode" title="个人号" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falost&layout=compact&langs_count=10&count_private=true" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=falost&amp;layout=compact&amp;langs_count=20&amp;count_private=true">
   
