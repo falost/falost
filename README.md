@@ -18,7 +18,7 @@
   
 </div>
 
-<img align="left" src="https://falost.gitee.io/static/falost/falost_mp.jpg" width = "190" height = "190" alt="falost_qrcode" title="小程序" />
+
 
 <img align="left" src="./images/search_falost.jpg" width="45%" alt="Falost" title="小程序" />
 <img align="left" src="./images/search_baba.jpg" width="45%" alt="粑粑达人" title="小程序" />
